@@ -1,3 +1,4 @@
 .env*
 /frontend/.env*
 /backend/.env*
+echo .DS_Store >> .gitignore
